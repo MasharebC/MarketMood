@@ -1,0 +1,6 @@
+option_settings:
+  aws:autoscaling:launchconfiguration:
+    InstanceType: t2.medium
+  aws:elasticbeanstalk:application:environment:
+    ENV_VAR_NAME: "value"
+
