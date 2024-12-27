@@ -1,7 +1,3 @@
-Here’s a concise and structured README for the MarktMood project:  
-
----
-
 # MarktMood
 
 MarktMood is an AI-powered platform that performs sentiment analysis on news articles to predict stock market movements. The project integrates AWS services to provide a seamless experience for analyzing sentiment and predicting stock price trends.
@@ -62,10 +58,6 @@ MarktMood is an AI-powered platform that performs sentiment analysis on news art
 ## Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
